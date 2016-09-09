@@ -1,4 +1,4 @@
-# XXE challenge with docx file
+# LFI challenge
 
 ## install
 
